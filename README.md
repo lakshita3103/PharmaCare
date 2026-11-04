@@ -60,7 +60,11 @@ Currently in the initial development and planning phase.
 
 ## 👩‍💻 Contributors
 
+- Devendra Singh
 - Lakshita Sharma
+- Mayank Shree
+- Om Singh
+- Priyanshu Varshney
 
 ## 🎯 Project Goal
 
